@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# CAIXA - IA Generativa com Microsoft Copilot :Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 📒 Descrição:
 
-> Woooow! Look at this 👀
+Em participação do bootcamp da Dio , fui desafiada a explorar IAs Generativas para criar conteudo utilizando as IAs disponibilizadas hoje no mercado, que poderia ser ebook, podcasr ou video com avatar.
+Sendo assim aproveitei meus estudos recentes da plataforma Microsoft 365 para demonstrar a criação de um aplicativo usando o Power Apps e Power Automate para iniciantes.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🤖 Tecnologias Utilizadas:
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* CHAT-GPT : Geração de texto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Venho utilizando com frequencia as possibilidades que as IAs Generativas nos propõe: para estudos, revisões, melhorias de texto. Recentemente no bootcamp nos foi apresentado outras possibilidades como: criar avatares e videos, criar imagens, transcrições , e gerações de textos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+[Veja aqui o Ebook Power Apps e Power Automate](https://github.com/FabianaLimaDias/lab-natty-or-not/blob/main/Ebook_PowerApps_PowerAutomate.pdf)
+
+Este eBook ensina passo a passo como criar um aplicativo no Power Apps integrado ao Power Automate para automatizar processos empresariais. Ideal para iniciantes, aborda desde o planejamento do projeto até a criação, teste e implantação do sistema. Inclui dicas práticas, exemplos de fluxos de trabalho e orientações para otimizar a experiência do usuário. Transforme tarefas manuais em soluções automatizadas com este guia claro e acessível.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+Durante minha jornada explorando as IAs Generativas, percebi que ainda há muito espaço para evolução nesse campo. Com seu constante crescimento, elas não devem nos amedrontar, mas sim ser vistas como aliadas. É essencial aprendermos continuamente como utilizá-las de forma eficiente e ética, aproveitando seu potencial para nos auxiliar no dia a dia.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
